@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/css" href="/stylesheets/main.css" ?> 
 
 <!DOCTYPE faq[
-<!ELEMENT faq>
+<!ELEMENT faq (header)>
 <!ELEMENT header (#PCDATA)>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT term (#PCDATA)>
