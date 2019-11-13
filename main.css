@@ -1,0 +1,72 @@
+
+faq { 
+
+background-color: #595959 
+
+padding: 5px;
+
+}
+
+header, term, main_image { 
+
+color: black;
+font-family: sans-serif;
+font-size:19pt;
+text-align: center;
+
+}
+
+subtitle, description {
+
+color: black;
+font-family: sans-serif;
+text-align: left;
+font-size:13pt;
+
+}
+
+overview, finance, program, therapy, cancellations, medical { 
+
+color: black;
+font-family: sans-serif;
+font-size: 16pt;
+text-align: center;
+border-top: 3px solid black;
+padding: 15px;
+
+}
+
+faq_one, faq_two, faq_three, faq_four, faq_five, faq_six, faq_seven, faq_eight, faq_nine, faq_ten, faq_eleven { 
+
+color: blue;
+font-family: sans-serif;
+font-size:14pt;
+font-weight: bold;
+text-align: left;
+list-style-type: diamond;
+
+}
+
+answer_one, answer_two, answer_three, answer_four, answer_five, answer_six, answer_seven, answer_eight, answer_nine, answer_ten, answer_eleven { 
+
+color: black;
+font-family: sans-serif;
+text-align: left;
+font-size:13pt;
+font-weight: italics;
+
+}
+
+contact_info {
+
+color: black;
+font-weight: bold;
+font-size: 15pt;
+text-align: center;
+border-top: 3px solid black;
+padding: 10px;
+margin-top:40px;
+padding: 20px;
+margin-bottom:-5px;
+
+}
