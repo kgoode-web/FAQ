@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-stylesheet type="text/css" href="faq/stylesheets/main.css" ?> 
+<?xml-stylesheet type="text/css" href="/stylesheets/main.css" ?> 
 
 <!DOCTYPE faq[
 <!ELEMENT faq>
