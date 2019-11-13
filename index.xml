@@ -15,7 +15,7 @@
 <!ELEMENT answer_one (#PCDATA)>
 <!ELEMENT faq_two (#PCDATA)>
 <!ELEMENT answer_two (#PCDATA)>
-<!ELEMENT program (#PCDATA)>
+<!ELEMENT program>
 <!ELEMENT faq_three (#PCDATA)>
 <!ELEMENT answer_three (#PCDATA)>
 <!ELEMENT faq_four (#PCDATA)>
